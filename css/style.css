@@ -1,0 +1,61 @@
+body {
+    background-color: aquamarine;
+    margin: 0 0 0 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: blue;
+}
+
+.header {
+    width: 100vw;
+    height: 10vh;
+    background-color: orange;
+    
+}
+
+#header-sup {
+    width: 100vw;
+    height: 5vh;
+    background-color: rgb(233, 59, 198);
+    
+}
+
+#header-inf {
+    width: 100vw;
+    height: 5vh;
+    background-color: rgb(145, 16, 237);
+    
+}
+
+/* body container  */
+.body {
+    width: 100vw;
+    height: 80vh;
+    background-color: green;
+    
+}
+
+.body-izq {
+    width: 30vw;
+    height: 80vh;
+    background-color: rgb(23, 236, 30);
+    float: left;
+}
+
+.body-der {
+    width: 70vw;
+    height: 80vh;
+    background-color: rgb(211, 233, 66);
+    float: left;
+    
+}
+
+.footer {
+    width: 100vw;
+    height: 10vh;
+    background-color: red;
+    
+}
